@@ -23,7 +23,3 @@ Tips and Tricks
 Use the sphere and cylinder radius sliders to adjust the thickness of the connections and the size of the nodes for better visibility or a more aesthetic appearance.
 Experiment with different combinations of layers, nodes, and depth layers to create unique and complex neural network structures.
 Use Blender's materials and lighting features to enhance the appearance of the network and create stunning visualizations.
-Support and Feedback
-If you encounter any issues or have suggestions for improvements, please visit the add-on's GitHub repository at https://github.com/yourusername/neural_network_visualization (replace "yourusername" with your actual GitHub username if you're hosting the code on GitHub). You can also use other URLs if you prefer.
-
-Create a new issue to report bugs or request new features, and feel free to contribute to the project by submitting pull requests with your own improvements.
